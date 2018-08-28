@@ -122,7 +122,7 @@ Most of the design team works on a mix of partner-agency projects and internal i
 
 Here are some common tools we use, how we use them, and how you can get access to them. If you can’t find the information you need in the chart below, get in touch with your design lead; they’ll be able to point you in the right direction.
 
-And one more thing: before you start using any new tool that asks for access to files/browser data, please check the [full list](https://ea.gsa.gov/#!/itstandards) of approved tools. If what you want to use isn’t there, you’ll need to ask in [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure) first. New tools often create hard-to-anticipate security problems.
+And one more thing: before you start using any new tool that asks for access to files/browser data, please check the [full list](https://ea.gsa.gov/#!/itstandards) of approved tools. You will need to be on the GSA network. Alternatively, you can find an export of the data on GitHub, though note this may be slightly out-of-date. If what you want to use isn’t there, you’ll need to ask in [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure) first. New tools often create hard-to-anticipate security problems.
 
 #### Drawing lines on a screen
 
@@ -160,7 +160,7 @@ We default to free and open-source assets, unless there is a very, very good rea
 - **Frameworks:** the [Draft U.S. Web Design Standards](https://playbook.cio.gov/designstandards/) is a visual style guide and set of components for U.S. federal government websites. It includes guidance for fonts, colors, and UI components. We don’t mandate using this, but it’s a good place to start.
 - **Type:** We don’t mandate using typefaces from the [Draft U.S. Web Design Standards](https://playbook.cio.gov/designstandards/), but it’s a good place to start. [Google’s collection of open-source typefaces](https://pages-staging.18f.gov/govt-wide-patternlibrary/elements/) is also helpful.
 - **Icons:**
-  - Each [18F presentation theme](https://pages.18f.gov/brand/presentation-themes/) has a master page that holds a small selection of commonly-used icons from the closed-source [picons](http://picons.me/) collection. Post to [#18f-branding](https://gsa-tts.slack.com/messages/18f-branding) if you need to use more/different ones...and be prepared to explain why!
+  - Each [18F presentation theme](https://brand.18f.gov/templates/) has a master page that holds a small selection of commonly-used icons from the closed-source [picons](http://picons.me/) collection. Post to [#18f-branding](https://gsa-tts.slack.com/messages/18f-branding) if you need to use more/different ones...and be prepared to explain why!
   - For a larger (and open-source!) set of icons, [Font Awesome](http://fortawesome.github.io/Font-Awesome/get-started/) is a starter kit. [The Noun Project](https://thenounproject.com/) has a number of open-source icons as well. If you want to start using non-free ones, you’ll need to jump through some hoops — yes, even if the icon only costs $1.99. You’ll need to get official emailed permission from the product owner, then check #team-ops for further instructions.
 - **Images:** Most images published by government agencies are in the public domain and thus free to use.
   - USA.gov has [an image search](https://search.usa.gov/search/images?affiliate=usagov) for such photos.
