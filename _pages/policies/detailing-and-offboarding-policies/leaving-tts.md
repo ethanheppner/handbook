@@ -8,7 +8,7 @@ tags:
 
 This guide covers the offboarding policy and process.
 
-## How to resign
+## How to resign right meow
 
 ### 1. Email your resignation letter
 
