@@ -361,12 +361,13 @@ navigation:
       internal: true
   - text: 18F
     children:
-    - text: 18F History and values
-      url: history-and-values/
-      internal: true
-    - text: Mission
-      url: mission/
-      internal: true
+    - children:
+      - text: 18F History and values
+        url: history-and-values/
+        internal: true
+      - text: Mission
+        url: mission/
+        internal: true
       - text: 18F org chart
         url: org-chart/
         internal: true
