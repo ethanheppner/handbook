@@ -334,10 +334,10 @@ navigation:
         internal: true
     - text: Infrastructure
       children:
-      - text: Infrastructure
+      - text: Infrastructure (TTS)
         url: infrastructure/
         internal: true
-      - text: Infrastructure
+      - text: Infrastructure (18F)
         url: intro-to-18f-infrastructure/
         internal: true
       - text: Software
@@ -361,14 +361,12 @@ navigation:
       internal: true
   - text: 18F
     children:
-    - text: About 18F
-      children:
-      - text: 18F History and values
-        url: history-and-values/
-        internal: true
-      - text: Mission
-        url: mission/
-        internal: true
+    - text: 18F History and values
+      url: history-and-values/
+      internal: true
+    - text: Mission
+      url: mission/
+      internal: true
       - text: 18F org chart
         url: org-chart/
         internal: true
@@ -461,10 +459,9 @@ navigation:
   - text: Office of Products and Programs (OPP)
     children:  
     - text: About OPP
+      url: office-of-products-and-programs/
+      internal: true
       children:  
-      - text: Overview of OPP
-        url: office-of-products-and-programs/
-        internal: true
       - text: OPP History
         url: opp-history/
         internal: true
@@ -497,9 +494,8 @@ navigation:
       url: https://coe.gsa.gov/
       internal: false
   - text: Presidential Innovation Fellows (PIF)
-    children:
-    - text: PIF Website
-      url: https://presidentialinnovationfellows.gov/
-      internal: false
+    url: https://presidentialinnovationfellows.gov/
+    internal: false
+
 
 
