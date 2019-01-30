@@ -2,13 +2,7 @@
 title: Acquisition
 ---
 
-# Welcome to the Acquisition Chapter
-
-## *Making Procurement Joyful*
-
-## Welcome!
-
-Welcome to the 18F Acquisition Chapter — we’re happy you’re here! We’ve compiled some information to help you get started.  We’ll update this guide as we receive feedback, so don’t be shy to share your thoughts. 
+*Making procurement joyful*
 
 ### Who we are
 
@@ -112,8 +106,10 @@ These are a couple of suggested reading materials meant to give you a better sen
 * **Talk to industry!** We are comfortable having conversations with industry as the FAR advises us to do.
 
 #### 18F is here for you
+
 * **Ask for help.** Know there is a powerful ecosystem of 18Fers who are on-call to help with any areas where you need more assistance, whether it’s design, security practices, or product management best practices. We see new things every day, but it’s unlikely that someone hasn’t seen something like what you’re experiencing before and can offer a hand, ear, or whatever other body part you may need given the circumstances.
 * **Not everyone is ready for the 18F way.** We have a certain point of view when it comes to agile procurement and modular contracting.  It doesn’t work for all partners in every situation.  It’s ok to recognize that this may not be the right fit. What’s worse would be to force it onto someone not ready and see them stumble in [very predictable ways](https://18f.gsa.gov/2018/09/27/antipatterns-in-agile-contracting/). This wouldn’t normally be a problem but you may encounter folks who say something like, “Yea we tried that Agile thing once and it wasn’t for us, so we’re sticking with this.”
+
 ---
 
 #### Still have questions?
